@@ -71,6 +71,7 @@ public class CollegeYear {
 		}
 		
 		System.out.println("\nProgram Exit!!");
+		
 	}
 
 }
